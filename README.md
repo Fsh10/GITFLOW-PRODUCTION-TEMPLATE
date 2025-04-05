@@ -61,7 +61,7 @@ Below is a sample architecture for the project:
 Installation
 Clone the Repository:
 ```bash
-git clone https://github.com/your-username/GITFLOW-PRODUCTION-TEMPLATE.git
+git clone https://github.com/fsh-10/GITFLOW-PRODUCTION-TEMPLATE.git
 cd GITFLOW-PRODUCTION-TEMPLATE
 ```
 Install Dependencies: Follow the instructions provided in the documentation or setup scripts to install the necessary dependencies.
